@@ -14,7 +14,7 @@ AI security competition
 ![scale](/image/scale.png)  
 ![flip](/image/flip.png)  
 最终结果  
-![result](/image/flip.png)  
+![result](/image/result.png)  
 ### 总结  
 我们使用了干净模型和两种不同方法训练的防御模型按照以上思路进行对图片的攻击，最终得分为92.16排名第七。  
 详情可参考<a href="https://github.com/Jin-TaoZhang/YNU_Rookie/blob/master/YNU_Rookie_WriteUp%20.pdf">writeup</a>
