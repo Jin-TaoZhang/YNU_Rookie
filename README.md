@@ -11,7 +11,7 @@ AI security competition
 流程图如下  
 ![flow_diagram](/image/flow_diagram.jpg)  
 随机裁剪，翻转效果展示  
-<img src="./image/scale.png" width=500 />
+<img src="./image/scale.png" width=500 />  
 ![flip](/image/flip.png)  
 最终结果  
 ![result](/image/result.png)  
