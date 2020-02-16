@@ -8,4 +8,8 @@ AI security competition
 本项目基于百度飞桨实现 
 ### 程序思路  
 将训练好的模型在logits层进行融合，攻击方法选用了MI-FGSM+PGD，在攻击开始之前先对图像进行随机缩放，对图像的不同翻转方向进行求导操作后将所得梯度矩阵加权相加，最后完成对图片的攻击。  
-![flow_diagram](/image/flow_diagram.jpg)
+流程图如下  
+![flow_diagram](/image/flow_diagram.jpg)  
+随机裁剪，翻转效果展示  
+![scale](/image/scale.png)  
+![flip](/image/flip.png)  
